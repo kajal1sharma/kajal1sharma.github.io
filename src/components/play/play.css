@@ -1,0 +1,23 @@
+.play__container{
+    border-top: #585858 solid 1px;
+    cursor: pointer;
+    padding: 20% 0%;
+    /* position: absolute;
+    top:100vh; */
+}
+.play__text{
+    color:rgb(167, 167, 167);
+    font-size: 16px;
+    text-align: center;
+}
+.play__icon{
+    color: #d1cece;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.play__container:hover{
+    background-color: rgb(38, 133, 171);
+    color: white;
+    font-weight: 600;
+}

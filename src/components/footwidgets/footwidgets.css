@@ -1,0 +1,9 @@
+.foot__container{
+    z-index: 20;
+    color:white;
+}
+
+.widgets__photo{
+    width:10%;
+    cursor: pointer;
+}

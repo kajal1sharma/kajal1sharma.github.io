@@ -1,0 +1,14 @@
+.downArrow, .upArrow{
+    position: absolute;
+    font-size: 20px;
+    color: aliceblue;
+    left:50%;
+    width:4%;
+    padding:0.5% 0%;
+    background-color: rgba(128, 128, 128, 0.518);
+    cursor: pointer;
+    z-index: 30;
+}
+.upArrow:hover , .downArrow:hover{
+    background-color: rgba(0, 0, 0, 0.381);
+}
